@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: in.rfs
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, cache-ehcache, data, data-mongodb, flyway, h2, hibernate-jpa, http-client, java, java-application, jdbc-hikari, jetty-server, junit, log4j2, maven, mockito, openapi, properties, readme, serialization-jackson, shade, swagger-ui, test-resources]
